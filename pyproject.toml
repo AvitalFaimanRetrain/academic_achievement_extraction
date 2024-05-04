@@ -1,0 +1,30 @@
+[tool.poetry]
+name = "academic-achievement-extraction"
+version = "0.1.0"
+description = ""
+authors = ["avitalfaiman <avital.faiman@retrain.ai>"]
+readme = "README.md"
+packages = [{include = "academic_achievement_extraction"}]
+
+[tool.poetry.dependencies]
+python = "^3.11"
+retrain-openai = "1.0.0"
+retrain-python-logger = "2.0.0"
+
+[[tool.poetry.source]]
+name = "retrain"
+url = "https://europe-west4-python.pkg.dev/retrain-utils/retrain-pypi/simple/"
+priority = 'supplemental'
+
+[[tool.poetry.source]]
+name = "pytorch-cpu"
+url = "https://download.pytorch.org/whl/cpu"
+priority = "supplemental"
+
+[[tool.poetry.source]]
+name = "PyPI"
+priority = "primary"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
