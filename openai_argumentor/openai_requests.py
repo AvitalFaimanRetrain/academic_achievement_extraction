@@ -4,7 +4,8 @@ from string import Template
 from retrain_openai.models.ext_models import CompletionResponse
 from retrain_openai.openai import openai
 from retrain_logger.logger import logger_setup
-from openai_argumentor.openai_prompts import ALTERNATIVE_AND_ACRONYMS_PROMPT, EDUCATION_FIELD_PROMPT, MAJOR_PROMPT
+from openai_argumentor.openai_prompts import ALTERNATIVE_AND_ACRONYMS_PROMPT, EDUCATION_FIELD_PROMPT, MAJOR_PROMPT, \
+    EDUCATION_LEVEL_PROMPT
 
 logger = logger_setup(__name__)
 
@@ -54,6 +55,9 @@ def parse_openai_response(response):
         content = response[0]['result'][0]['content']
         if 'Output' in content:
             content = content.replace("Output", "").strip(":")
+            logger.info(f"Content: {content}")
+        if content.startswith("To extract"):
+            return -1
     except KeyError:
         logger.info(f"Content not found for the response: {response}")
         logger.error(f"Content not found for the response: {response}")
@@ -72,7 +76,7 @@ def generate_alternative_and_acronyms(
         logger.info(f"Generating response for '{degree}' [{i}/{num_degrees}] degree")
         prompt_template = Template(ALTERNATIVE_AND_ACRONYMS_PROMPT)
         final_prompt = prompt_template.substitute(
-            **{"degree": degree})
+            **{"degree": degree.replace('*', '')})
         logger.info(f"Prompt: {final_prompt}")
         logger.info(f"[{i}/{num_degrees}] alt degree and acronym prompt: {final_prompt}")
         message = [{"role": "user", "content": final_prompt}]
@@ -88,59 +92,34 @@ def generate_alternative_and_acronyms(
     return alt_acronyms_df
 
 
-def generate_education_fields(
-        data: pd.DataFrame
+def generate(
+        data: pd.DataFrame,
+        field: str
 ) -> pd.DataFrame:
     if data.empty:
         return pd.DataFrame()
     total = len(data)
-    education_fields = []
+    all_data = []
+    prompts = {
+        "education_level": EDUCATION_LEVEL_PROMPT,
+        "major": MAJOR_PROMPT,
+        "education_field": EDUCATION_FIELD_PROMPT
+    }
 
     for index, row in data.iterrows():
-        logger.info(f"Generating education_field for [{index}/{total}] degrees")
+        logger.info(f"Generating {field} for [{index}/{total}] degrees")
         logger.info(f"prompt for degree: {row['name']}")
-        final_prompt = Template(EDUCATION_FIELD_PROMPT)
+        final_prompt = Template(prompts[field])
         final_prompt = final_prompt.substitute(**{"degree": row['name']})
         logger.info(f"Prompt: {final_prompt}")
         message = [{"role": "user", "content": final_prompt}]
-        logger.info(f"[{index}/{total}] education fields prompt: {message}")
-        result = _send_completion_request("gpt-35-turbo", 1000, 0.8, message)
-        logger.info(f"Result from openai: {result}")
-        parsed_result = parse_openai_response(result)
-        if parsed_result == '-1':
-            continue
-        parsed_result = json.loads(parsed_result)
-        education_fields.append(parsed_result)
-    education_fields_df = pd.DataFrame(education_fields)
-    return education_fields_df
-
-
-def generate_major(
-        data: pd.DataFrame
-) -> pd.DataFrame:
-    if data.empty:
-        return pd.DataFrame()
-    total = len(data)
-    major = []
-
-    for index, row in data.iterrows():
-        logger.info(f"Generating major for [{index}/{total}] degrees")
-        logger.info(f"prompt for degree: {row['name']}")
-        final_prompt = Template(MAJOR_PROMPT)
-        final_prompt = final_prompt.substitute(**{"degree": row['name']})
-        logger.info(f"Prompt: {final_prompt}")
-        message = [{"role": "user", "content": final_prompt}]
-        logger.info(f"[{index}/{total}] major degree prompt: {message}")
+        logger.info(f"[{index}/{total}] {field} prompt: {message}")
         result = _send_completion_request("gpt-35-turbo", 1000, 0.8, message)
         logger.info(f"Result from openai: {result}")
         parsed_result = parse_openai_response(result)
         if parsed_result == '-1':
             continue
         parsed_result = json.loads(parse_openai_response(result))
-        major.append(parsed_result)
-    major_df = pd.DataFrame(major)
-    return major_df
-
-
-def generate_education_level(data: list):
-    pass
+        all_data.append(parsed_result)
+    all_data_df = pd.DataFrame(all_data)
+    return all_data_df
