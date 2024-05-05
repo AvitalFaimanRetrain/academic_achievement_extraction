@@ -56,7 +56,7 @@ def parse_openai_response(response):
         if 'Output' in content:
             content = content.replace("Output", "").strip(":")
             logger.info(f"Content: {content}")
-        if content.startswith("To extract"):
+        if content.startswith("To"):
             return '-1'
     except KeyError:
         logger.info(f"Content not found for the response: {response}")
