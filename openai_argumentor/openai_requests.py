@@ -57,7 +57,7 @@ def parse_openai_response(response):
             content = content.replace("Output", "").strip(":")
             logger.info(f"Content: {content}")
         if content.startswith("To extract"):
-            return -1
+            return '-1'
     except KeyError:
         logger.info(f"Content not found for the response: {response}")
         logger.error(f"Content not found for the response: {response}")
@@ -68,7 +68,13 @@ def parse_openai_response(response):
 
 def generate_alternative_and_acronyms(
         data: list
-):
+) -> pd.DataFrame:
+    """
+    Generate alternative names and acronyms for the degree
+    :param data: all raw input data
+    :return:
+        df with degree name, acronym, alternative name and alternative acronym
+    """
     num_degrees = len(data)
     alt_acronyms = []
     logger.info(f"Generating alternative names and acronyms for [{num_degrees}] degrees")
@@ -96,6 +102,12 @@ def generate(
         data: pd.DataFrame,
         field: str
 ) -> pd.DataFrame:
+    """
+    Generate fields for degrees
+    :param data: All degrees names
+    :param field: the field we will generate
+    :return: df with generated field
+    """
     if data.empty:
         return pd.DataFrame()
     total = len(data)
