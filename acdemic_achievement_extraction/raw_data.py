@@ -263,3 +263,10 @@ doctors = [
     "Doctor of Science (DSc/ScD)",
     "Doctor of Theology (ThD)"
 ]
+
+education_levels = {
+    "education_level": ["Primary Education", "Secondary Education", "High School Diploma", "Vocational Education",
+                        "Associate Degree", "Bachelor’s Degree", "Master’s Degree", "Professional Degrees",
+                        "Doctorate Degree", "Post-Doctoral Programs"],
+    "education_level_number": [1, 2, 3, 4, 4, 5, 6, 6, 7, 8]
+}
