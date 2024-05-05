@@ -10,6 +10,7 @@ packages = [{include = "academic_achievement_extraction"}]
 python = "^3.11"
 retrain-openai = "1.0.0"
 retrain-python-logger = "2.0.0"
+pandas = "^2.2.2"
 
 [[tool.poetry.source]]
 name = "retrain"
