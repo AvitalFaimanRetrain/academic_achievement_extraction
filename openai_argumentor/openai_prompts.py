@@ -51,22 +51,95 @@ ALTERNATIVE_AND_ACRONYMS_PROMPT = """
     degree: "$degree"    
 """
 
+
+
 EDUCATION_FIELD_PROMPT = """
     Given an input representing a degree please extract the education field.
+
+    Based on the input degree provided below create an extraction in the following JSON format:
+    {
+        "name": Degree input, the same name you received in the input
+        "education_field": The education field of the degree.
+    }
     
-    You will receive an input, delimited by triple quotes, in a JSON list formatting - input example:
-    ["Master of Computer Science", "Bachelor of Arts in Economics", "Bachelor of Science in Occupational 
-    Therapy Assistant"...]
-    You should output a JSON list containing the new formatted title in the same order as the input - output
-    example: ["Computer Science", "Liberal Arts", "Science" ...]
+    Good output examples:
+    Input: 
+    degree: Associate of Applied Science in Information Technology
+    Output:
+        {
+            "name": "Associate of Applied Science in Information Technology",
+            "education_field": "Applied Science"
+        }
     
-    Extract the correct education field for the following degrees:
+    Input: 
+    degree: Bachelor of Science in Occupational Therapy Assistant
+    Output:
+        {
+            "name": "Bachelor of Science in Occupational Therapy Assistant",
+            "education_field": "Science"
+        }
+    
+    Input: 
+    degree: Bachelor of Arts Major in Economics
+    Output:
+        {
+            "name": "Bachelor of Arts Major in Economics",
+            "education_field": "Liberal Arts"
+        }
+    
+    Extract the correct education field for the following degree:
             ```
-            $degrees
+            $degree
             ```
 """
 
 MAJOR_PROMPT = """
+    Given an input representing a degree please extract the major following these instructions:
+    1. If there isn't any major mark ''.
+    
+    Based on the input degree provided below create an extraction in the following JSON format:
+    {
+        "name": Degree input, the same name you received in the input
+        "major": The major of the degree
+    }
+    
+    Good output examples:
+    Input: 
+    degree: Associate of Applied Science in Information Technology
+    Output:
+        {
+            "name": "Associate of Applied Science in Information Technology",
+            "major": "Information Technology"
+        }
+    
+    Input: 
+    degree: Bachelor of Science in Occupational Therapy Assistant
+    Output:
+        {
+            "name": "Bachelor of Science in Occupational Therapy Assistant",
+            "major": "Occupational Therapy Assistant"
+        }
+    
+    Input: 
+    degree: Master of Computer Science
+    Output:
+        {
+            "name": "Bachelor of Arts Major in Economics",
+            "education_field": "N/A"
+        }
+
+    Extract the correct major for the following degree:
+            ```
+            $degree
+            ```
+"""
+
+EDUCATION_LEVEL_PROMPT = """
+    
+"""
+
+
+MAJOR_PROMPT1 = """
     Given an input representing a degree please extract the major following these instructions:
     1. If there isn't any major mark ''.
     
@@ -83,3 +156,17 @@ MAJOR_PROMPT = """
 """
 
 
+EDUCATION_FIELD_PROMPT1 = """
+    Given an input representing a degree please extract the education field.
+
+    You will receive an input, delimited by triple quotes, in a JSON list formatting - input example:
+    ["Master of Computer Science", "Bachelor of Arts in Economics", "Bachelor of Science in Occupational 
+    Therapy Assistant"...]
+    You should output a JSON list containing the new formatted title in the same order as the input - output
+    example: ["Computer Science", "Liberal Arts", "Science" ...]
+
+    Extract the correct education field for the following degrees:
+            ```
+            $degrees
+            ```
+"""
