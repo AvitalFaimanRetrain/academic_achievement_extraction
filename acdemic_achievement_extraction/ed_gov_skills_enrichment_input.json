@@ -1,1182 +1,1182 @@
 [
   {
     "uuid": "9b4a6299-2060-46ab-8b6a-e7c97d80f130",
-    "name": "Master of Forest Engineering (M.F.E.)",
-    "new_name": "Master of Forest Engineering"
+    "taxonomies_name": "Master of Forest Engineering (M.F.E.)",
+    "name": "Master of Forest Engineering"
   },
   {
     "uuid": "153319b6-33fa-4e7e-a090-9e7f7380fa39",
-    "name": "Bachelor of Canon Law (B.C.L.)",
-    "new_name": "Bachelor of Canon Law"
+    "taxonomies_name": "Bachelor of Canon Law (B.C.L.)",
+    "name": "Bachelor of Canon Law"
   },
   {
     "uuid": "008aa65d-9bac-4609-aac5-58cdd4aa1ccf",
-    "name": "Master of Arts in Art Therapy (M.A.A.T.)",
-    "new_name": "Master of Arts in Art Therapy"
+    "taxonomies_name": "Master of Arts in Art Therapy (M.A.A.T.)",
+    "name": "Master of Arts in Art Therapy"
   },
   {
     "uuid": "4b538ba0-9eae-42d1-9ad5-a34e15a72272",
-    "name": "Bachelor of Science in Chemical and Materials Engineering (B.S.C.M.E.)",
-    "new_name": "Bachelor of Science in Chemical and Materials Engineering"
+    "taxonomies_name": "Bachelor of Science in Chemical and Materials Engineering (B.S.C.M.E.)",
+    "name": "Bachelor of Science in Chemical and Materials Engineering"
   },
   {
     "uuid": "eafb6d2d-fc92-441d-abb8-82bf608b3639",
-    "name": "Master of Science in Aeronautics and Astronautics (M.S.A.A.)",
-    "new_name": "Master of Science in Aeronautics and Astronautics"
+    "taxonomies_name": "Master of Science in Aeronautics and Astronautics (M.S.A.A.)",
+    "name": "Master of Science in Aeronautics and Astronautics"
   },
   {
     "uuid": "36dee985-7010-4d43-bb6a-42475ac5689d",
-    "name": "Master of Music Education (M.M.Ed.)",
-    "new_name": "Master of Music Education"
+    "taxonomies_name": "Master of Music Education (M.M.Ed.)",
+    "name": "Master of Music Education"
   },
   {
     "uuid": "7222595f-8ce3-409b-8aea-1b1e3104c508",
-    "name": "Associate of Engineering (A.E./A.Eng.)",
-    "new_name": "Associate of Engineering"
+    "taxonomies_name": "Associate of Engineering (A.E./A.Eng.)",
+    "name": "Associate of Engineering"
   },
   {
     "uuid": "fc5bc19b-9baa-4fc7-9506-93a0117f9047",
-    "name": "Master of Physical Education (M.P.E./M.P.Ed.)",
-    "new_name": "Master of Physical Education"
+    "taxonomies_name": "Master of Physical Education (M.P.E./M.P.Ed.)",
+    "name": "Master of Physical Education"
   },
   {
     "uuid": "83862d48-3ee0-4794-a0c5-820aafa12ac2",
-    "name": "Bachelor of Engineering (B.E./B.Eng.)",
-    "new_name": "Bachelor of Engineering"
+    "taxonomies_name": "Bachelor of Engineering (B.E./B.Eng.)",
+    "name": "Bachelor of Engineering"
   },
   {
     "uuid": "c3c20dcf-ac3f-439c-b7e8-d7d1ea413a44",
-    "name": "Bachelor of Science in Drafting Design Technology (B.S.D.D.T.)",
-    "new_name": "Bachelor of Science in Drafting Design Technology"
+    "taxonomies_name": "Bachelor of Science in Drafting Design Technology (B.S.D.D.T.)",
+    "name": "Bachelor of Science in Drafting Design Technology"
   },
   {
     "uuid": "7deedd3a-66f8-42c7-bd28-e6f67c490914",
-    "name": "Master of Manufacturing Engineering (M.M.E.)",
-    "new_name": "Master of Manufacturing Engineering"
+    "taxonomies_name": "Master of Manufacturing Engineering (M.M.E.)",
+    "name": "Master of Manufacturing Engineering"
   },
   {
     "uuid": "dceae593-df20-49e7-a1f8-c0ba0848c9e9",
-    "name": "Master of Applied Anthropology (M.A.A.)",
-    "new_name": "Master of Applied Anthropology"
+    "taxonomies_name": "Master of Applied Anthropology (M.A.A.)",
+    "name": "Master of Applied Anthropology"
   },
   {
     "uuid": "efa9ff2d-ba20-48b8-b743-f49a9b1f94a7",
-    "name": "Bachelor of Science in Chemistry (B.S.Ch.)",
-    "new_name": "Bachelor of Science in Chemistry"
+    "taxonomies_name": "Bachelor of Science in Chemistry (B.S.Ch.)",
+    "name": "Bachelor of Science in Chemistry"
   },
   {
     "uuid": "2bc92e20-dbe2-4f06-9bf8-8d59c49e6b06",
-    "name": "Master of Science in Nuclear Engineering (M.S.N.E.)",
-    "new_name": "Master of Science in Nuclear Engineering"
+    "taxonomies_name": "Master of Science in Nuclear Engineering (M.S.N.E.)",
+    "name": "Master of Science in Nuclear Engineering"
   },
   {
     "uuid": "31d886df-4782-4d03-a240-a9edfe36e0ed",
-    "name": "Bachelor of Science in Chemical and Biomolecular Engineering (B.S.Ch.B.E.)",
-    "new_name": "Bachelor of Science in Chemical and Biomolecular Engineering"
+    "taxonomies_name": "Bachelor of Science in Chemical and Biomolecular Engineering (B.S.Ch.B.E.)",
+    "name": "Bachelor of Science in Chemical and Biomolecular Engineering"
   },
   {
     "uuid": "de0299fb-0243-4fbb-81b9-3ef6408101ab",
-    "name": "Master of Science in Artificial Intelligence (M.S.A.I.)",
-    "new_name": "Master of Science in Artificial Intelligence"
+    "taxonomies_name": "Master of Science in Artificial Intelligence (M.S.A.I.)",
+    "name": "Master of Science in Artificial Intelligence"
   },
   {
     "uuid": "43826689-e3b8-4a1e-a7e1-228911478b32",
-    "name": "Master of Agricultural Extension (M.A.Ext.)",
-    "new_name": "Master of Agricultural Extension"
+    "taxonomies_name": "Master of Agricultural Extension (M.A.Ext.)",
+    "name": "Master of Agricultural Extension"
   },
   {
     "uuid": "4c11e1a9-66ae-480c-84f7-1123c8e2b268",
-    "name": "Bachelor of Biomedical Engineering (B.B.m.E.)",
-    "new_name": "Bachelor of Biomedical Engineering"
+    "taxonomies_name": "Bachelor of Biomedical Engineering (B.B.m.E.)",
+    "name": "Bachelor of Biomedical Engineering"
   },
   {
     "uuid": "d94cde0c-247e-45e8-9250-eceabd8b8cfb",
-    "name": "Master of Education (M.Ed.)",
-    "new_name": "Master of Education"
+    "taxonomies_name": "Master of Education (M.Ed.)",
+    "name": "Master of Education"
   },
   {
     "uuid": "9060d172-b65d-40e4-9c44-09aa38f54702",
-    "name": "Master of Science in Mass Communications (M.S.M.C.)",
-    "new_name": "Master of Science in Mass Communications"
+    "taxonomies_name": "Master of Science in Mass Communications (M.S.M.C.)",
+    "name": "Master of Science in Mass Communications"
   },
   {
     "uuid": "c7b46396-e036-41bd-a7aa-88c6785d458d",
-    "name": "Doctor of Juridical Science (JSD/SJD)",
-    "new_name": "Doctor of Juridical Science"
+    "taxonomies_name": "Doctor of Juridical Science (JSD/SJD)",
+    "name": "Doctor of Juridical Science"
   },
   {
     "uuid": "0a08ce21-0bef-426f-b5a8-b1e32a4e68a3",
-    "name": "Bachelor of Science in Electrical and Computer Engineering (B.S.E.C.E.)",
-    "new_name": "Bachelor of Science in Electrical and Computer Engineering"
+    "taxonomies_name": "Bachelor of Science in Electrical and Computer Engineering (B.S.E.C.E.)",
+    "name": "Bachelor of Science in Electrical and Computer Engineering"
   },
   {
     "uuid": "f68fff86-d9ea-41d2-84c0-28bad689f482",
-    "name": "Master of Marine Affairs (M.M.A.)",
-    "new_name": "Master of Marine Affairs"
+    "taxonomies_name": "Master of Marine Affairs (M.M.A.)",
+    "name": "Master of Marine Affairs"
   },
   {
     "uuid": "08cf5278-c094-4075-b90c-66216422a14c",
-    "name": "Bachelor of Science in Civil and Infrastructure Engineering (B.S.-C.I.E.)",
-    "new_name": "Bachelor of Science in Civil and Infrastructure Engineering"
+    "taxonomies_name": "Bachelor of Science in Civil and Infrastructure Engineering (B.S.-C.I.E.)",
+    "name": "Bachelor of Science in Civil and Infrastructure Engineering"
   },
   {
     "uuid": "4371aa26-ab26-45af-896b-ad66ac8f14fc",
-    "name": "Master of Science in Information Science (M.S.I.S.)",
-    "new_name": "Master of Science in Information Science"
+    "taxonomies_name": "Master of Science in Information Science (M.S.I.S.)",
+    "name": "Master of Science in Information Science"
   },
   {
     "uuid": "caf19814-e950-42f6-99ba-e62f20fb855f",
-    "name": "Doctor of Jurisprudence or Juris Doctor (J.D.)",
-    "new_name": "Doctor of Jurisprudence or Juris Doctor"
+    "taxonomies_name": "Doctor of Jurisprudence or Juris Doctor (J.D.)",
+    "name": "Doctor of Jurisprudence or Juris Doctor"
   },
   {
     "uuid": "2d567b20-64b7-4b63-9e9c-7fd2c06bd081",
-    "name": "Master of Physical Therapy (M.P.T.)",
-    "new_name": "Master of Physical Therapy"
+    "taxonomies_name": "Master of Physical Therapy (M.P.T.)",
+    "name": "Master of Physical Therapy"
   },
   {
     "uuid": "a9c128f2-4d22-4cd6-9c1f-d5bd602972c4",
-    "name": "Master of Public Management (M.P.M.)",
-    "new_name": "Master of Public Management"
+    "taxonomies_name": "Master of Public Management (M.P.M.)",
+    "name": "Master of Public Management"
   },
   {
     "uuid": "8eba77f3-56ca-48fd-990a-03295ab829db",
-    "name": "Associate of Applied Business (A.A.B.)",
-    "new_name": "Associate of Applied Business"
+    "taxonomies_name": "Associate of Applied Business (A.A.B.)",
+    "name": "Associate of Applied Business"
   },
   {
     "uuid": "9256f5ce-2b3f-4cbd-b6aa-b1b5dbd813c3",
-    "name": "Master of Planning (M.P.)",
-    "new_name": "Master of Planning"
+    "taxonomies_name": "Master of Planning (M.P.)",
+    "name": "Master of Planning"
   },
   {
     "uuid": "432cd18c-4d19-42aa-a03f-c2802898efe4",
-    "name": "Master of Mass Communications (M.M.C.)",
-    "new_name": "Master of Mass Communications"
+    "taxonomies_name": "Master of Mass Communications (M.M.C.)",
+    "name": "Master of Mass Communications"
   },
   {
     "uuid": "33ad5d48-fb77-4914-a483-7c3c9fb693b0",
-    "name": "Master of Science in Natural Science (M.S.N.S.)",
-    "new_name": "Master of Science in Natural Science"
+    "taxonomies_name": "Master of Science in Natural Science (M.S.N.S.)",
+    "name": "Master of Science in Natural Science"
   },
   {
     "uuid": "8add2275-3a1b-4bf5-8742-c2a559de7a8a",
-    "name": "Master of Music Therapy (M.M.T.)",
-    "new_name": "Master of Music Therapy"
+    "taxonomies_name": "Master of Music Therapy (M.M.T.)",
+    "name": "Master of Music Therapy"
   },
   {
     "uuid": "3f5a1e2b-df07-482a-8fcb-971c8910831e",
-    "name": "DESc",
-    "new_name": "DESc"
+    "taxonomies_name": "DESc",
+    "name": "DESc"
   },
   {
     "uuid": "7f76d80d-87ae-4e73-920c-758830b7240e",
-    "name": "DEng",
-    "new_name": "DEng"
+    "taxonomies_name": "DEng",
+    "name": "DEng"
   },
   {
     "uuid": "6bb8e98d-3af4-4695-b625-896926928121",
-    "name": "Rav",
-    "new_name": "Rav"
+    "taxonomies_name": "Rav",
+    "name": "Rav"
   },
   {
     "uuid": "96763087-59a3-4f65-acf7-11f9da828eea",
-    "name": "STD",
-    "new_name": "STD"
+    "taxonomies_name": "STD",
+    "name": "STD"
   },
   {
     "uuid": "4ccfd187-3efb-4aae-954b-d76c8c93499d",
-    "name": "Master of Industrial Design (M.I.D.)",
-    "new_name": "Master of Industrial Design"
+    "taxonomies_name": "Master of Industrial Design (M.I.D.)",
+    "name": "Master of Industrial Design"
   },
   {
     "uuid": "8ef6d758-f23a-44e9-9576-f0f5efb003e2",
-    "name": "Master of Manufacturing Management (M.M.M.)",
-    "new_name": "Master of Manufacturing Management"
+    "taxonomies_name": "Master of Manufacturing Management (M.M.M.)",
+    "name": "Master of Manufacturing Management"
   },
   {
     "uuid": "bad24d5f-8f3b-474b-accc-19a26fdf69e2",
-    "name": "Bachelor of Pharmacy (B.Pharm.)",
-    "new_name": "Bachelor of Pharmacy"
+    "taxonomies_name": "Bachelor of Pharmacy (B.Pharm.)",
+    "name": "Bachelor of Pharmacy"
   },
   {
     "uuid": "9db6d0fb-def6-4546-af22-663c83e5e335",
-    "name": "Doctor of Medicine (M.D.)",
-    "new_name": "Doctor of Medicine"
+    "taxonomies_name": "Doctor of Medicine (M.D.)",
+    "name": "Doctor of Medicine"
   },
   {
     "uuid": "8e1fa4b3-7804-4f26-9b83-2695771fc8ae",
-    "name": "Bachelor of Music (B.M.)",
-    "new_name": "Bachelor of Music"
+    "taxonomies_name": "Bachelor of Music (B.M.)",
+    "name": "Bachelor of Music"
   },
   {
     "uuid": "84130c4e-de02-47a8-b360-50a396378411",
-    "name": "Master of Computer Science (M.C.S.)",
-    "new_name": "Master of Computer Science"
+    "taxonomies_name": "Master of Computer Science (M.C.S.)",
+    "name": "Master of Computer Science"
   },
   {
     "uuid": "50037003-c13a-46e4-b829-dd774f494adf",
-    "name": "Bachelor of Business (B.B.)",
-    "new_name": "Bachelor of Business"
+    "taxonomies_name": "Bachelor of Business (B.B.)",
+    "name": "Bachelor of Business"
   },
   {
     "uuid": "7e5015b0-d638-44f3-a281-1e762d366914",
-    "name": "Doctor of Audiology (Au.D.)",
-    "new_name": "Doctor of Audiology"
+    "taxonomies_name": "Doctor of Audiology (Au.D.)",
+    "name": "Doctor of Audiology"
   },
   {
     "uuid": "c80d10dc-155a-4490-b2e2-935b3b6b4edc",
-    "name": "Bachelor of Science in Biosystems and Agricultural Engineering (B.S.B.A.E.)",
-    "new_name": "Bachelor of Science in Biosystems and Agricultural Engineering"
+    "taxonomies_name": "Bachelor of Science in Biosystems and Agricultural Engineering (B.S.B.A.E.)",
+    "name": "Bachelor of Science in Biosystems and Agricultural Engineering"
   },
   {
     "uuid": "d6c395f2-6e79-4aaf-ad51-ffd5bc363e89",
-    "name": "Bachelor of Education (B.Ed.)",
-    "new_name": "Bachelor of Education"
+    "taxonomies_name": "Bachelor of Education (B.Ed.)",
+    "name": "Bachelor of Education"
   },
   {
     "uuid": "bef6e733-2143-4153-9f69-6e55d3345e09",
-    "name": "Doctor of Science (DSc/ScD)",
-    "new_name": "Doctor of Science"
+    "taxonomies_name": "Doctor of Science (DSc/ScD)",
+    "name": "Doctor of Science"
   },
   {
     "uuid": "88e68319-c02a-47e7-9ba2-2ea60e48ff86",
-    "name": "Bachelor of Marine Science (B.M.S.)",
-    "new_name": "Bachelor of Marine Science"
+    "taxonomies_name": "Bachelor of Marine Science (B.M.S.)",
+    "name": "Bachelor of Marine Science"
   },
   {
     "uuid": "000af126-ad25-49f7-b7c4-8a760e55a594",
-    "name": "Master of Science in Medical Technology (M.S.M.T.)",
-    "new_name": "Master of Science in Medical Technology"
+    "taxonomies_name": "Master of Science in Medical Technology (M.S.M.T.)",
+    "name": "Master of Science in Medical Technology"
   },
   {
     "uuid": "e6ac7702-33ad-4e10-9242-11f4e427ecd0",
-    "name": "Master of Science in Ceramic Engineering (M.S.Cer.E.)",
-    "new_name": "Master of Science in Ceramic Engineering"
+    "taxonomies_name": "Master of Science in Ceramic Engineering (M.S.Cer.E.)",
+    "name": "Master of Science in Ceramic Engineering"
   },
   {
     "uuid": "8c12129a-bd79-423c-a708-272c731010ba",
-    "name": "Master of Accounting (M.Acc.)",
-    "new_name": "Master of Accounting"
+    "taxonomies_name": "Master of Accounting (M.Acc.)",
+    "name": "Master of Accounting"
   },
   {
     "uuid": "4e59b2fd-dd06-4ebf-8d79-447a224d892a",
-    "name": "Bachelor of Literature (B.Lit.)",
-    "new_name": "Bachelor of Literature"
+    "taxonomies_name": "Bachelor of Literature (B.Lit.)",
+    "name": "Bachelor of Literature"
   },
   {
     "uuid": "eaac3ad5-297f-49cf-888d-6edf47144e0d",
-    "name": "Bachelor of Engineering Technology (B.E.T.)",
-    "new_name": "Bachelor of Engineering Technology"
+    "taxonomies_name": "Bachelor of Engineering Technology (B.E.T.)",
+    "name": "Bachelor of Engineering Technology"
   },
   {
     "uuid": "cc9ad8d7-10c0-45b5-8c93-11d614cd7e4b",
-    "name": "Bachelor of Science in Forest Research (B.S.For.Res.)",
-    "new_name": "Bachelor of Science in Forest Research"
+    "taxonomies_name": "Bachelor of Science in Forest Research (B.S.For.Res.)",
+    "name": "Bachelor of Science in Forest Research"
   },
   {
     "uuid": "b596f5bf-fbc6-4ce8-9d45-6e6835753849",
-    "name": "Master of Arts in the Humanities (M.A.H.)",
-    "new_name": "Master of Arts in the Humanities"
+    "taxonomies_name": "Master of Arts in the Humanities (M.A.H.)",
+    "name": "Master of Arts in the Humanities"
   },
   {
     "uuid": "d6396756-c143-48b8-98da-f9ca0c933e03",
-    "name": "Master of Recreation and Parks Administration (M.R.P.A.)",
-    "new_name": "Master of Recreation and Parks Administration"
+    "taxonomies_name": "Master of Recreation and Parks Administration (M.R.P.A.)",
+    "name": "Master of Recreation and Parks Administration"
   },
   {
     "uuid": "8304088c-d7aa-4098-a53d-40d037123ef8",
-    "name": "Master of Science in Environmental Engineering (M.S.Env.E.)",
-    "new_name": "Master of Science in Environmental Engineering"
+    "taxonomies_name": "Master of Science in Environmental Engineering (M.S.Env.E.)",
+    "name": "Master of Science in Environmental Engineering"
   },
   {
     "uuid": "ee294b97-64a1-4b47-a5d3-176c72da9662",
-    "name": "Bachelor of Science in Chemical Engineering (B.S.Ch.E.)",
-    "new_name": "Bachelor of Science in Chemical Engineering"
+    "taxonomies_name": "Bachelor of Science in Chemical Engineering (B.S.Ch.E.)",
+    "name": "Bachelor of Science in Chemical Engineering"
   },
   {
     "uuid": "fb6062ba-0e7c-482f-aa6d-54421a454a4b",
-    "name": "Master of Environmental Planning (M.E.P.)",
-    "new_name": "Master of Environmental Planning"
+    "taxonomies_name": "Master of Environmental Planning (M.E.P.)",
+    "name": "Master of Environmental Planning"
   },
   {
     "uuid": "4e611db7-1be4-466d-a52f-9952f64ff0b7",
-    "name": "Master of Clinical Medical Science (M.C.M.S.)",
-    "new_name": "Master of Clinical Medical Science"
+    "taxonomies_name": "Master of Clinical Medical Science (M.C.M.S.)",
+    "name": "Master of Clinical Medical Science"
   },
   {
     "uuid": "e227effc-b35f-4e0a-886b-f6110f9566f4",
-    "name": "Associate of Forestry (A.F.)",
-    "new_name": "Associate of Forestry"
+    "taxonomies_name": "Associate of Forestry (A.F.)",
+    "name": "Associate of Forestry"
   },
   {
     "uuid": "bb639683-ce67-4c3d-af59-3a7ea067857a",
-    "name": "Master of Pharmacy (M.Pharm.)",
-    "new_name": "Master of Pharmacy"
+    "taxonomies_name": "Master of Pharmacy (M.Pharm.)",
+    "name": "Master of Pharmacy"
   },
   {
     "uuid": "2d8c6726-59e6-4ecd-9479-19af4fd5e20a",
-    "name": "Bachelor of Science in Business (B.S.B.)",
-    "new_name": "Bachelor of Science in Business"
+    "taxonomies_name": "Bachelor of Science in Business (B.S.B.)",
+    "name": "Bachelor of Science in Business"
   },
   {
     "uuid": "edbd7d72-3939-4e52-869b-613114186dc9",
-    "name": "Master of Geological Engineering (M.G.E.)",
-    "new_name": "Master of Geological Engineering"
+    "taxonomies_name": "Master of Geological Engineering (M.G.E.)",
+    "name": "Master of Geological Engineering"
   },
   {
     "uuid": "bc042c35-f29d-4b23-908f-92e41d3ea335",
-    "name": "Associate of Business Administration (A.B.A.)",
-    "new_name": "Associate of Business Administration"
+    "taxonomies_name": "Associate of Business Administration (A.B.A.)",
+    "name": "Associate of Business Administration"
   },
   {
     "uuid": "28b2c5de-3158-42bd-899e-835d56007016",
-    "name": "Master of Religious Education (M.R.E./M.Rel.Ed.)",
-    "new_name": "Master of Religious Education"
+    "taxonomies_name": "Master of Religious Education (M.R.E./M.Rel.Ed.)",
+    "name": "Master of Religious Education"
   },
   {
     "uuid": "e1b4fbc8-a177-45f6-8a53-7c1a3979fd8f",
-    "name": "Master of Architectural Engineering (M.A.E./M.S.A.E.)",
-    "new_name": "Master of Architectural Engineering"
+    "taxonomies_name": "Master of Architectural Engineering (M.A.E./M.S.A.E.)",
+    "name": "Master of Architectural Engineering"
   },
   {
     "uuid": "a269f2de-c94c-46dd-997c-8ffd71f3eb64",
-    "name": "Master of Tourism Management (M.T.M./M.T.H.M.)",
-    "new_name": "Master of Tourism Management"
+    "taxonomies_name": "Master of Tourism Management (M.T.M./M.T.H.M.)",
+    "name": "Master of Tourism Management"
   },
   {
     "uuid": "4136ac58-416f-4bdd-bc78-d9b37ca64c77",
-    "name": "Bachelor of Science in Systems (B.S.-SYST.)",
-    "new_name": "Bachelor of Science in Systems"
+    "taxonomies_name": "Bachelor of Science in Systems (B.S.-SYST.)",
+    "name": "Bachelor of Science in Systems"
   },
   {
     "uuid": "a198c9b6-ece7-4a0b-aba8-3a619ba56930",
-    "name": "Bachelor of Science in Materials Engineering (B.S.MA.E.)",
-    "new_name": "Bachelor of Science in Materials Engineering"
+    "taxonomies_name": "Bachelor of Science in Materials Engineering (B.S.MA.E.)",
+    "name": "Bachelor of Science in Materials Engineering"
   },
   {
     "uuid": "dfab007d-0d65-41c3-b4a2-a03b2f656677",
-    "name": "Bachelor of Mechanical Engineering (B.M.E.)",
-    "new_name": "Bachelor of Mechanical Engineering"
+    "taxonomies_name": "Bachelor of Mechanical Engineering (B.M.E.)",
+    "name": "Bachelor of Mechanical Engineering"
   },
   {
     "uuid": "791b0e9c-62d1-45f7-b740-23b6aa37083c",
-    "name": "Bachelor of Science in Mechanical Engineering Technology (B.S.M.E.T.)",
-    "new_name": "Bachelor of Science in Mechanical Engineering Technology"
+    "taxonomies_name": "Bachelor of Science in Mechanical Engineering Technology (B.S.M.E.T.)",
+    "name": "Bachelor of Science in Mechanical Engineering Technology"
   },
   {
     "uuid": "798d4e5d-3de4-4e49-8a11-514153936da6",
-    "name": "Doctor of Nursing Science (DNSc)",
-    "new_name": "Doctor of Nursing Science"
+    "taxonomies_name": "Doctor of Nursing Science (DNSc)",
+    "name": "Doctor of Nursing Science"
   },
   {
     "uuid": "09556233-996e-4be5-ac02-28c1df1ecc0c",
-    "name": "Master of Arts in Communications (M.A.C.)",
-    "new_name": "Master of Arts in Communications"
+    "taxonomies_name": "Master of Arts in Communications (M.A.C.)",
+    "name": "Master of Arts in Communications"
   },
   {
     "uuid": "af85d7c5-82b7-4070-bd36-125ef8a9b75b",
-    "name": "Master of Divinity (M.Div.)",
-    "new_name": "Master of Divinity"
+    "taxonomies_name": "Master of Divinity (M.Div.)",
+    "name": "Master of Divinity"
   },
   {
     "uuid": "4d2575d4-cb67-4afe-8863-89f0b0b4ffd3",
-    "name": "Master of Public Health (M.P.H.)",
-    "new_name": "Master of Public Health"
+    "taxonomies_name": "Master of Public Health (M.P.H.)",
+    "name": "Master of Public Health"
   },
   {
     "uuid": "da877701-a281-48ad-acdc-f4b1d7ed1059",
-    "name": "Master of Laws (LL.M.)",
-    "new_name": "Master of Laws"
+    "taxonomies_name": "Master of Laws (LL.M.)",
+    "name": "Master of Laws"
   },
   {
     "uuid": "2b40a43b-ce2c-4223-a117-017f791643e4",
-    "name": "Master of Science in Petroleum Engineering (M.S.Pet.E./M.S.P.N.G.E.)",
-    "new_name": "Master of Science in Petroleum Engineering"
+    "taxonomies_name": "Master of Science in Petroleum Engineering (M.S.Pet.E./M.S.P.N.G.E.)",
+    "name": "Master of Science in Petroleum Engineering"
   },
   {
     "uuid": "39eb7435-30ca-4804-9129-1caf9b3d1bca",
-    "name": "Master of Computer Engineering (M.C.E./M.S.C.E.)",
-    "new_name": "Master of Computer Engineering"
+    "taxonomies_name": "Master of Computer Engineering (M.C.E./M.S.C.E.)",
+    "name": "Master of Computer Engineering"
   },
   {
     "uuid": "506e5d35-4d28-4120-84d7-12ed4633a61c",
-    "name": "Master of International Affairs (M.I.A.)",
-    "new_name": "Master of International Affairs"
+    "taxonomies_name": "Master of International Affairs (M.I.A.)",
+    "name": "Master of International Affairs"
   },
   {
     "uuid": "528cb73f-93d9-4fdd-8ae5-4235040f605b",
-    "name": "Master of Public Policy (M.P.P.)",
-    "new_name": "Master of Public Policy"
+    "taxonomies_name": "Master of Public Policy (M.P.P.)",
+    "name": "Master of Public Policy"
   },
   {
     "uuid": "846e55c0-004c-4f05-b604-402508a24eb4",
-    "name": "Master of Bioinformatics (M.B.)",
-    "new_name": "Master of Bioinformatics"
+    "taxonomies_name": "Master of Bioinformatics (M.B.)",
+    "name": "Master of Bioinformatics"
   },
   {
     "uuid": "8bbadb62-43a6-487e-8242-d625e05d5b30",
-    "name": "Master of Arts in Community Psychology (M.A.C.P.)",
-    "new_name": "Master of Arts in Community Psychology"
+    "taxonomies_name": "Master of Arts in Community Psychology (M.A.C.P.)",
+    "name": "Master of Arts in Community Psychology"
   },
   {
     "uuid": "f632aecd-9ed4-4097-bfc1-bfb7dfd2aa86",
-    "name": "Bachelor of Fine Arts (B.F.A.)",
-    "new_name": "Bachelor of Fine Arts"
+    "taxonomies_name": "Bachelor of Fine Arts (B.F.A.)",
+    "name": "Bachelor of Fine Arts"
   },
   {
     "uuid": "6c9c4009-634f-49c8-889a-324d40033232",
-    "name": "Bachelor of Science in Materials Science and Engineering (B.S.M.S.E.)",
-    "new_name": "Bachelor of Science in Materials Science and Engineering"
+    "taxonomies_name": "Bachelor of Science in Materials Science and Engineering (B.S.M.S.E.)",
+    "name": "Bachelor of Science in Materials Science and Engineering"
   },
   {
     "uuid": "0f337d3a-f0ea-4661-a401-1a2c08164a24",
-    "name": "Master of Women’s Studies (M.W.S.)",
-    "new_name": "Master of Women’s Studies"
+    "taxonomies_name": "Master of Women’s Studies (M.W.S.)",
+    "name": "Master of Women’s Studies"
   },
   {
     "uuid": "f37e36b5-9d17-4847-aa81-d6c7f693a236",
-    "name": "Master of Arts in Art Education (M.A.A.E./M.A.A.Ed.)",
-    "new_name": "Master of Arts in Art Education"
+    "taxonomies_name": "Master of Arts in Art Education (M.A.A.E./M.A.A.Ed.)",
+    "name": "Master of Arts in Art Education"
   },
   {
     "uuid": "f1bb35d9-f796-41d7-b889-1bdbdd3def9c",
-    "name": "Bachelor of Computer Science (B.C.S.)",
-    "new_name": "Bachelor of Computer Science"
+    "taxonomies_name": "Bachelor of Computer Science (B.C.S.)",
+    "name": "Bachelor of Computer Science"
   },
   {
     "uuid": "4421dbf1-1a5e-43cc-887f-82d541f46d8a",
-    "name": "Doctor of Veterinary Medicine (D.V.M.)",
-    "new_name": "Doctor of Veterinary Medicine"
+    "taxonomies_name": "Doctor of Veterinary Medicine (D.V.M.)",
+    "name": "Doctor of Veterinary Medicine"
   },
   {
     "uuid": "405d9b4a-48f0-4f73-99cc-f02fc80d2d80",
-    "name": "Master of Agriculture (M.Ag./M.Agr.)",
-    "new_name": "Master of Agriculture"
+    "taxonomies_name": "Master of Agriculture (M.Ag./M.Agr.)",
+    "name": "Master of Agriculture"
   },
   {
     "uuid": "0feccb2e-30d6-4b57-95eb-b5b272e0570b",
-    "name": "Bachelor of Fiber Engineering (B.F.E.)",
-    "new_name": "Bachelor of Fiber Engineering"
+    "taxonomies_name": "Bachelor of Fiber Engineering (B.F.E.)",
+    "name": "Bachelor of Fiber Engineering"
   },
   {
     "uuid": "6dcbb0d7-eb5c-45d0-a978-ec841a9268b7",
-    "name": "Master of Forest Resources (M.F.R.)",
-    "new_name": "Master of Forest Resources"
+    "taxonomies_name": "Master of Forest Resources (M.F.R.)",
+    "name": "Master of Forest Resources"
   },
   {
     "uuid": "d0a4e93e-4c46-450e-9a83-4e53d4a941c7",
-    "name": "Doctor of Physical Therapy (D.P.T.)",
-    "new_name": "Doctor of Physical Therapy"
+    "taxonomies_name": "Doctor of Physical Therapy (D.P.T.)",
+    "name": "Doctor of Physical Therapy"
   },
   {
     "uuid": "bd8c9005-67c2-4edc-925d-1d969de3eca6",
-    "name": "Bachelor of Forestry (B.F.)",
-    "new_name": "Bachelor of Forestry"
+    "taxonomies_name": "Bachelor of Forestry (B.F.)",
+    "name": "Bachelor of Forestry"
   },
   {
     "uuid": "f32749b0-5103-41a0-b5ba-c081dd59f9de",
-    "name": "Doctor of Pharmacy (Pharm.D.)",
-    "new_name": "Doctor of Pharmacy"
+    "taxonomies_name": "Doctor of Pharmacy (Pharm.D.)",
+    "name": "Doctor of Pharmacy"
   },
   {
     "uuid": "8bbf6333-e0b3-49b1-8d06-450792e41ee2",
-    "name": "Doctor of Optometry (O.D.)",
-    "new_name": "Doctor of Optometry"
+    "taxonomies_name": "Doctor of Optometry (O.D.)",
+    "name": "Doctor of Optometry"
   },
   {
     "uuid": "bf6868f0-c2ae-4782-ad17-f2a5ac77e1e2",
-    "name": "Master of Engineering Technology (M.E.T./M.S.E.T.)",
-    "new_name": "Master of Engineering Technology"
+    "taxonomies_name": "Master of Engineering Technology (M.E.T./M.S.E.T.)",
+    "name": "Master of Engineering Technology"
   },
   {
     "uuid": "93b87df5-71da-4aca-8654-ce3ce29b6fa5",
-    "name": "Master of Hospitality Management (M.H.M.)",
-    "new_name": "Master of Hospitality Management"
+    "taxonomies_name": "Master of Hospitality Management (M.H.M.)",
+    "name": "Master of Hospitality Management"
   },
   {
     "uuid": "09371698-28fe-4e94-8941-02ede6e2b8f1",
-    "name": "Master of City Planning (M.C.P.)",
-    "new_name": "Master of City Planning"
+    "taxonomies_name": "Master of City Planning (M.C.P.)",
+    "name": "Master of City Planning"
   },
   {
     "uuid": "d85392af-a8f2-416f-bbba-12f2a2e0daeb",
-    "name": "Bachelor of Science in Construction Engineering Technology (B.S.Con.E.T.)",
-    "new_name": "Bachelor of Science in Construction Engineering Technology"
+    "taxonomies_name": "Bachelor of Science in Construction Engineering Technology (B.S.Con.E.T.)",
+    "name": "Bachelor of Science in Construction Engineering Technology"
   },
   {
     "uuid": "2e90739a-0cd9-4e6a-b623-4e3de20bc39a",
-    "name": "Master of Engineering Science (M.E.S.)",
-    "new_name": "Master of Engineering Science"
+    "taxonomies_name": "Master of Engineering Science (M.E.S.)",
+    "name": "Master of Engineering Science"
   },
   {
     "uuid": "6fee9b4a-e214-4f91-a7e6-28bdbd78703d",
-    "name": "Master of Home Economics (M.H.E.)",
-    "new_name": "Master of Home Economics"
+    "taxonomies_name": "Master of Home Economics (M.H.E.)",
+    "name": "Master of Home Economics"
   },
   {
     "uuid": "fb22c7ba-0a8b-43da-b2b7-cb80e01c2707",
-    "name": "Bachelor of Architecture (B.Arch.)",
-    "new_name": "Bachelor of Architecture"
+    "taxonomies_name": "Bachelor of Architecture (B.Arch.)",
+    "name": "Bachelor of Architecture"
   },
   {
     "uuid": "89b96148-5793-4264-8dd1-fd3e4984c52f",
-    "name": "Bachelor of Criminal Justice (B.C.J.)",
-    "new_name": "Bachelor of Criminal Justice"
+    "taxonomies_name": "Bachelor of Criminal Justice (B.C.J.)",
+    "name": "Bachelor of Criminal Justice"
   },
   {
     "uuid": "7c1235d4-d008-4e98-bfa9-121febf80cfd",
-    "name": "Master of Sacred Theology (S.T.M.)",
-    "new_name": "Master of Sacred Theology"
+    "taxonomies_name": "Master of Sacred Theology (S.T.M.)",
+    "name": "Master of Sacred Theology"
   },
   {
     "uuid": "aeedc256-51ab-4626-8dce-32d5d7e5ff79",
-    "name": "Master of Engineering Management (M.E.M./M.S.E.Mgt.)",
-    "new_name": "Master of Engineering Management"
+    "taxonomies_name": "Master of Engineering Management (M.E.M./M.S.E.Mgt.)",
+    "name": "Master of Engineering Management"
   },
   {
     "uuid": "312a8ced-1bcd-4eb9-a29e-004f82d3522f",
-    "name": "Bachelor of Laws (LL.B.)",
-    "new_name": "Bachelor of Laws"
+    "taxonomies_name": "Bachelor of Laws (LL.B.)",
+    "name": "Bachelor of Laws"
   },
   {
     "uuid": "f724b988-07f8-4d2c-b18f-0ec612509ccd",
-    "name": "Master of Human Resources (M.H.R.)",
-    "new_name": "Master of Human Resources"
+    "taxonomies_name": "Master of Human Resources (M.H.R.)",
+    "name": "Master of Human Resources"
   },
   {
     "uuid": "fabdd50c-0766-434f-8291-6d46aa94dda8",
-    "name": "Bachelor of Science in Electrical",
-    "new_name": "Bachelor of Science in Electrical"
+    "taxonomies_name": "Bachelor of Science in Electrical",
+    "name": "Bachelor of Science in Electrical"
   },
   {
     "uuid": "72ab6e8c-c96d-49a9-82fc-cbdf84c483fb",
-    "name": "Associate of Arts in Teaching (A.A.T.)",
-    "new_name": "Associate of Arts in Teaching"
+    "taxonomies_name": "Associate of Arts in Teaching (A.A.T.)",
+    "name": "Associate of Arts in Teaching"
   },
   {
     "uuid": "281bf645-3a39-44bf-95a6-03333af07bb9",
-    "name": "Master of Urban Studies (M.U.S.)",
-    "new_name": "Master of Urban Studies"
+    "taxonomies_name": "Master of Urban Studies (M.U.S.)",
+    "name": "Master of Urban Studies"
   },
   {
     "uuid": "b0ca8258-cdf1-4034-87ad-e0abc268c062",
-    "name": "Master of Taxation (M.T.)",
-    "new_name": "Master of Taxation"
+    "taxonomies_name": "Master of Taxation (M.T.)",
+    "name": "Master of Taxation"
   },
   {
     "uuid": "3db843f2-b585-4e6b-951f-76071caa293a",
-    "name": "Master of Technology (M.Tech.)",
-    "new_name": "Master of Technology"
+    "taxonomies_name": "Master of Technology (M.Tech.)",
+    "name": "Master of Technology"
   },
   {
     "uuid": "38214216-0ea2-4974-9e77-50cb6c6d3338",
-    "name": "Bachelor of Wireless Engineering (B.W.E.)",
-    "new_name": "Bachelor of Wireless Engineering"
+    "taxonomies_name": "Bachelor of Wireless Engineering (B.W.E.)",
+    "name": "Bachelor of Wireless Engineering"
   },
   {
     "uuid": "0d6bd746-3199-4ed2-8824-4ebad708c56a",
-    "name": "Master of Chemical Engineering (M.C.E./M.S.Ch.E.)",
-    "new_name": "Master of Chemical Engineering"
+    "taxonomies_name": "Master of Chemical Engineering (M.C.E./M.S.Ch.E.)",
+    "name": "Master of Chemical Engineering"
   },
   {
     "uuid": "fc21995f-2889-4fb8-a316-37805d7c0dc8",
-    "name": "Master of Information Technology (M.I.T.)",
-    "new_name": "Master of Information Technology"
+    "taxonomies_name": "Master of Information Technology (M.I.T.)",
+    "name": "Master of Information Technology"
   },
   {
     "uuid": "7e2dc09a-64b8-4c6d-b707-f2eead965c82",
-    "name": "Master of Science in Genetic Counseling (M.S.G.C.)",
-    "new_name": "Master of Science in Genetic Counseling"
+    "taxonomies_name": "Master of Science in Genetic Counseling (M.S.G.C.)",
+    "name": "Master of Science in Genetic Counseling"
   },
   {
     "uuid": "88983902-258c-4ef2-b2be-9d53fe5aa934",
-    "name": "Bachelor of Science in Agricultural Engineering (B.S.A.E.)",
-    "new_name": "Bachelor of Science in Agricultural Engineering"
+    "taxonomies_name": "Bachelor of Science in Agricultural Engineering (B.S.A.E.)",
+    "name": "Bachelor of Science in Agricultural Engineering"
   },
   {
     "uuid": "021e226d-7349-4fe9-acb8-9f42f0411b19",
-    "name": "Bachelor of Civil Engineering (B.C.E.)",
-    "new_name": "Bachelor of Civil Engineering"
+    "taxonomies_name": "Bachelor of Civil Engineering (B.C.E.)",
+    "name": "Bachelor of Civil Engineering"
   },
   {
     "uuid": "16c3c318-6430-4dec-b306-352aa15fb76f",
-    "name": "Bachelor of Software Engineering (B.S.W.E.)",
-    "new_name": "Bachelor of Software Engineering"
+    "taxonomies_name": "Bachelor of Software Engineering (B.S.W.E.)",
+    "name": "Bachelor of Software Engineering"
   },
   {
     "uuid": "d368d664-0e70-4b84-b4b7-3a805fe603bd",
-    "name": "Master of Science (M.S.)",
-    "new_name": "Master of Science"
+    "taxonomies_name": "Master of Science (M.S.)",
+    "name": "Master of Science"
   },
   {
     "uuid": "4d379a87-d977-44c0-a5c6-c6bbdadaa5f8",
-    "name": "Master of Criminal Justice (M.C.J.)",
-    "new_name": "Master of Criminal Justice"
+    "taxonomies_name": "Master of Criminal Justice (M.C.J.)",
+    "name": "Master of Criminal Justice"
   },
   {
     "uuid": "2dbce781-c361-4f08-95f5-3087fbb3c6d2",
-    "name": "Master of Occupational Therapy (M.O.T./M.S.O.T.)",
-    "new_name": "Master of Occupational Therapy"
+    "taxonomies_name": "Master of Occupational Therapy (M.O.T./M.S.O.T.)",
+    "name": "Master of Occupational Therapy"
   },
   {
     "uuid": "350fd0f0-fcd9-4990-8ea8-6aa7ae2b14e1",
-    "name": "Master of Science in Exercise and Sport Studies (M.S.E.S.S.)",
-    "new_name": "Master of Science in Exercise and Sport Studies"
+    "taxonomies_name": "Master of Science in Exercise and Sport Studies (M.S.E.S.S.)",
+    "name": "Master of Science in Exercise and Sport Studies"
   },
   {
     "uuid": "076a23a9-6948-4eec-bf1f-cfe1202f8d67",
-    "name": "Bachelor of Science in Biological Systems (B.S.B.S.)",
-    "new_name": "Bachelor of Science in Biological Systems"
+    "taxonomies_name": "Bachelor of Science in Biological Systems (B.S.B.S.)",
+    "name": "Bachelor of Science in Biological Systems"
   },
   {
     "uuid": "73c162de-2fd0-482b-bf88-13ff449f7357",
-    "name": "Master of Science in Nurse Anesthesia (M.S.N.A.)",
-    "new_name": "Master of Science in Nurse Anesthesia"
+    "taxonomies_name": "Master of Science in Nurse Anesthesia (M.S.N.A.)",
+    "name": "Master of Science in Nurse Anesthesia"
   },
   {
     "uuid": "6b7fbded-ff5e-4c31-b9b8-98b2ca603364",
-    "name": "Master of Theology (Th.M.)",
-    "new_name": "Master of Theology"
+    "taxonomies_name": "Master of Theology (Th.M.)",
+    "name": "Master of Theology"
   },
   {
     "uuid": "147982ad-f4b4-432b-9567-d16670ccce88",
-    "name": "Master of Justice Administration (M.J.A.)",
-    "new_name": "Master of Justice Administration"
+    "taxonomies_name": "Master of Justice Administration (M.J.A.)",
+    "name": "Master of Justice Administration"
   },
   {
     "uuid": "6ac7d86c-9b24-4c8c-87e0-b15edffe1c90",
-    "name": "Master of Science in Management (M.S.M./M.S.Mgt.)",
-    "new_name": "Master of Science in Management"
+    "taxonomies_name": "Master of Science in Management (M.S.M./M.S.Mgt.)",
+    "name": "Master of Science in Management"
   },
   {
     "uuid": "8ae022cc-acc0-4044-b148-e308571dc222",
-    "name": "Bachelor of Nursing (B.N.)",
-    "new_name": "Bachelor of Nursing"
+    "taxonomies_name": "Bachelor of Nursing (B.N.)",
+    "name": "Bachelor of Nursing"
   },
   {
     "uuid": "79a4a043-853d-4f1d-bc00-4dee636bc6f4",
-    "name": "Master of Design (M.Des.)",
-    "new_name": "Master of Design"
+    "taxonomies_name": "Master of Design (M.Des.)",
+    "name": "Master of Design"
   },
   {
     "uuid": "9882e811-9fd1-4363-868c-471251618a05",
-    "name": "Master of Health Administration (M.H.A.)",
-    "new_name": "Master of Health Administration"
+    "taxonomies_name": "Master of Health Administration (M.H.A.)",
+    "name": "Master of Health Administration"
   },
   {
     "uuid": "c6d89adc-3956-4702-bc9f-256a5488f252",
-    "name": "Master of Arts (M.A./A.M.)",
-    "new_name": "Master of Arts"
+    "taxonomies_name": "Master of Arts (M.A./A.M.)",
+    "name": "Master of Arts"
   },
   {
     "uuid": "75332016-65e0-4f81-ab4d-46e8f5740d1e",
-    "name": "Bachelor of Science in Biological Engineering (B.S.B.E.)",
-    "new_name": "Bachelor of Science in Biological Engineering"
+    "taxonomies_name": "Bachelor of Science in Biological Engineering (B.S.B.E.)",
+    "name": "Bachelor of Science in Biological Engineering"
   },
   {
     "uuid": "72b7b40c-715f-4ce7-9224-722d71e7def8",
-    "name": "Master of Environmental Studies (M.E.S.)",
-    "new_name": "Master of Environmental Studies"
+    "taxonomies_name": "Master of Environmental Studies (M.E.S.)",
+    "name": "Master of Environmental Studies"
   },
   {
     "uuid": "981580ff-f60c-4de0-ad39-f28605d530a8",
-    "name": "Master of Science in Orthodontics (M.S.O.)",
-    "new_name": "Master of Science in Orthodontics"
+    "taxonomies_name": "Master of Science in Orthodontics (M.S.O.)",
+    "name": "Master of Science in Orthodontics"
   },
   {
     "uuid": "0dbb38bd-a4d1-4f27-9279-dbbcc1b2d631",
-    "name": "Bachelor of Science in Computer Science and Engineering (B.S.C.S.E.)",
-    "new_name": "Bachelor of Science in Computer Science and Engineering"
+    "taxonomies_name": "Bachelor of Science in Computer Science and Engineering (B.S.C.S.E.)",
+    "name": "Bachelor of Science in Computer Science and Engineering"
   },
   {
     "uuid": "596092f7-5eab-4717-8435-cf85a621124e",
-    "name": "Master of Public and International Affairs (M.P.I.A.)",
-    "new_name": "Master of Public and International Affairs"
+    "taxonomies_name": "Master of Public and International Affairs (M.P.I.A.)",
+    "name": "Master of Public and International Affairs"
   },
   {
     "uuid": "483b4a31-06b8-44cd-81e6-73cff8f2fd7d",
-    "name": "Master of Environmental Science (M.E.S.)",
-    "new_name": "Master of Environmental Science"
+    "taxonomies_name": "Master of Environmental Science (M.E.S.)",
+    "name": "Master of Environmental Science"
   },
   {
     "uuid": "ec4cb652-8191-41d6-8f17-366462cbd1fc",
-    "name": "Bachelor of Science in Mining Engineering (B.S.MI.E.)",
-    "new_name": "Bachelor of Science in Mining Engineering"
+    "taxonomies_name": "Bachelor of Science in Mining Engineering (B.S.MI.E.)",
+    "name": "Bachelor of Science in Mining Engineering"
   },
   {
     "uuid": "daa2113b-2973-4f07-b298-2cf4cb87bebf",
-    "name": "Master of Science in Medical Illustration (M.S.M.I.)",
-    "new_name": "Master of Science in Medical Illustration"
+    "taxonomies_name": "Master of Science in Medical Illustration (M.S.M.I.)",
+    "name": "Master of Science in Medical Illustration"
   },
   {
     "uuid": "ee215dd2-8e5e-4bed-b2be-9d72fb394894",
-    "name": "Bachelor of Science in Civil Engineering Technology (B.S.C.E.T./B.S.Civ.E.T.)",
-    "new_name": "Bachelor of Science in Civil Engineering Technology"
+    "taxonomies_name": "Bachelor of Science in Civil Engineering Technology (B.S.C.E.T./B.S.Civ.E.T.)",
+    "name": "Bachelor of Science in Civil Engineering Technology"
   },
   {
     "uuid": "fccea527-d743-4da4-8662-4dba43f69c3f",
-    "name": "Master of Electrical and Computer Engineering (M.E.C.E.)",
-    "new_name": "Master of Electrical and Computer Engineering"
+    "taxonomies_name": "Master of Electrical and Computer Engineering (M.E.C.E.)",
+    "name": "Master of Electrical and Computer Engineering"
   },
   {
     "uuid": "fabba5ac-20f8-4d1b-87f6-afd25af2a8f5",
-    "name": "Master of Law Librarianship (M.L.L.)",
-    "new_name": "Master of Law Librarianship"
+    "taxonomies_name": "Master of Law Librarianship (M.L.L.)",
+    "name": "Master of Law Librarianship"
   },
   {
     "uuid": "48bb1c65-f958-4738-a240-232a5b74d9ab",
-    "name": "Master of Professional Accounting (M.P.A./M.Prof.Acc.)",
-    "new_name": "Master of Professional Accounting"
+    "taxonomies_name": "Master of Professional Accounting (M.P.A./M.Prof.Acc.)",
+    "name": "Master of Professional Accounting"
   },
   {
     "uuid": "769f079f-d250-4a60-941d-7835580e353a",
-    "name": "Bachelor of Computer Engineering (B.Comp.E.)",
-    "new_name": "Bachelor of Computer Engineering"
+    "taxonomies_name": "Bachelor of Computer Engineering (B.Comp.E.)",
+    "name": "Bachelor of Computer Engineering"
   },
   {
     "uuid": "9087439f-b6cc-493e-b354-5718e068387c",
-    "name": "Master of Business Administration (M.B.A.)",
-    "new_name": "Master of Business Administration"
+    "taxonomies_name": "Master of Business Administration (M.B.A.)",
+    "name": "Master of Business Administration"
   },
   {
     "uuid": "c29261bd-3208-4cb0-ba27-2bc20bbf0e86",
-    "name": "Master of Nursing (M.N.)",
-    "new_name": "Master of Nursing"
+    "taxonomies_name": "Master of Nursing (M.N.)",
+    "name": "Master of Nursing"
   },
   {
     "uuid": "f761791b-c6c7-4774-b456-26d2ce47829f",
-    "name": "Bachelor of Science in Manufacturing Engineering (B.S.Mfg.E.)",
-    "new_name": "Bachelor of Science in Manufacturing Engineering"
+    "taxonomies_name": "Bachelor of Science in Manufacturing Engineering (B.S.Mfg.E.)",
+    "name": "Bachelor of Science in Manufacturing Engineering"
   },
   {
     "uuid": "dcffd272-8590-4792-922d-25da543fa9b4",
-    "name": "Master of Architecture (M.Arch.)",
-    "new_name": "Master of Architecture"
+    "taxonomies_name": "Master of Architecture (M.Arch.)",
+    "name": "Master of Architecture"
   },
   {
     "uuid": "c5950139-f245-49ae-b0f7-48ffa48d7587",
-    "name": "Master of Community Health (M.C.H.)",
-    "new_name": "Master of Community Health"
+    "taxonomies_name": "Master of Community Health (M.C.H.)",
+    "name": "Master of Community Health"
   },
   {
     "uuid": "ec15b2a3-c271-4263-954c-e7501787ded3",
-    "name": "Master of Comparative Law (M.C.L./LL.C.M.)",
-    "new_name": "Master of Comparative Law"
+    "taxonomies_name": "Master of Comparative Law (M.C.L./LL.C.M.)",
+    "name": "Master of Comparative Law"
   },
   {
     "uuid": "bdee343e-c6c7-4748-9797-bd6d912ff268",
-    "name": "Master of Management (M.M.)",
-    "new_name": "Master of Management"
+    "taxonomies_name": "Master of Management (M.M.)",
+    "name": "Master of Management"
   },
   {
     "uuid": "a5e1dfea-9cf2-4bb6-a00a-52a4517ef166",
-    "name": "Bachelor of Science in Engineering Management (B.S.E.Mgt.)",
-    "new_name": "Bachelor of Science in Engineering Management"
+    "taxonomies_name": "Bachelor of Science in Engineering Management (B.S.E.Mgt.)",
+    "name": "Bachelor of Science in Engineering Management"
   },
   {
     "uuid": "cb7f4075-481d-4e8d-b89c-44927ec406d4",
-    "name": "Bachelor of Divinity (B.D.)",
-    "new_name": "Bachelor of Divinity"
+    "taxonomies_name": "Bachelor of Divinity (B.D.)",
+    "name": "Bachelor of Divinity"
   },
   {
     "uuid": "86af8829-928a-4d52-aebe-32b7b6594255",
-    "name": "Master of Music (M.M./M.Mus.)",
-    "new_name": "Master of Music"
+    "taxonomies_name": "Master of Music (M.M./M.Mus.)",
+    "name": "Master of Music"
   },
   {
     "uuid": "e7477dd6-8eba-4a09-aeea-a03914fa1fdb",
-    "name": "Master of Sacred Music (M.S.M.)",
-    "new_name": "Master of Sacred Music"
+    "taxonomies_name": "Master of Sacred Music (M.S.M.)",
+    "name": "Master of Sacred Music"
   },
   {
     "uuid": "329cd2ef-a122-4dde-8e2f-43d2997f232e",
-    "name": "Associate of Occupational Studies (A.O.S.)",
-    "new_name": "Associate of Occupational Studies"
+    "taxonomies_name": "Associate of Occupational Studies (A.O.S.)",
+    "name": "Associate of Occupational Studies"
   },
   {
     "uuid": "84a7c43c-d310-4021-ae9a-a7228a8e72d7",
-    "name": "Bachelor of Journalism (B.J.)",
-    "new_name": "Bachelor of Journalism"
+    "taxonomies_name": "Bachelor of Journalism (B.J.)",
+    "name": "Bachelor of Journalism"
   },
   {
     "uuid": "c6f8ed0b-8636-4284-b378-2ac0d6b0b4f0",
-    "name": "Master of Environmental Design (M.E.D.)",
-    "new_name": "Master of Environmental Design"
+    "taxonomies_name": "Master of Environmental Design (M.E.D.)",
+    "name": "Master of Environmental Design"
   },
   {
     "uuid": "89b98e4b-536d-4a78-9023-a6d6ab48fd1b",
-    "name": "Doctor of Chiropractic (D.C./D.C.M.)",
-    "new_name": "Doctor of Chiropractic"
+    "taxonomies_name": "Doctor of Chiropractic (D.C./D.C.M.)",
+    "name": "Doctor of Chiropractic"
   },
   {
     "uuid": "89cdbccc-f85d-414d-aa92-6f88d728f3fb",
-    "name": "Master of Urban Planning (M.U.P.)",
-    "new_name": "Master of Urban Planning"
+    "taxonomies_name": "Master of Urban Planning (M.U.P.)",
+    "name": "Master of Urban Planning"
   },
   {
     "uuid": "c83e7508-e06a-458c-a4b8-2105d37cc5f4",
-    "name": "Master of Family Therapy (M.F.T.)",
-    "new_name": "Master of Family Therapy"
+    "taxonomies_name": "Master of Family Therapy (M.F.T.)",
+    "name": "Master of Family Therapy"
   },
   {
     "uuid": "b55066cf-7857-4b95-abe0-fbfeec7bcb60",
-    "name": "Master of Science in Biomedical Engineering (M.S.B.E.)",
-    "new_name": "Master of Science in Biomedical Engineering"
+    "taxonomies_name": "Master of Science in Biomedical Engineering (M.S.B.E.)",
+    "name": "Master of Science in Biomedical Engineering"
   },
   {
     "uuid": "a233d3f1-ffe5-45d7-b1e0-9b54071ca11f",
-    "name": "Master of Engineering (M.E./M.Eng.)",
-    "new_name": "Master of Engineering"
+    "taxonomies_name": "Master of Engineering (M.E./M.Eng.)",
+    "name": "Master of Engineering"
   },
   {
     "uuid": "2bc1300e-232b-4287-89cb-b605d779818f",
-    "name": "Master of Information Resources Management (M.I.R.M.)",
-    "new_name": "Master of Information Resources Management"
+    "taxonomies_name": "Master of Information Resources Management (M.I.R.M.)",
+    "name": "Master of Information Resources Management"
   },
   {
     "uuid": "62342556-eba1-45c6-8741-e7d65a52786b",
-    "name": "Bachelor of Science in Aerospace Engineering (B.S.A.E.)",
-    "new_name": "Bachelor of Science in Aerospace Engineering"
+    "taxonomies_name": "Bachelor of Science in Aerospace Engineering (B.S.A.E.)",
+    "name": "Bachelor of Science in Aerospace Engineering"
   },
   {
     "uuid": "2a055824-2d71-4dd5-83e1-f886e1fbf849",
-    "name": "Associate of Science in Computer Assisted Design (A.S.-C.A.D.)",
-    "new_name": "Associate of Science in Computer Assisted Design"
+    "taxonomies_name": "Associate of Science in Computer Assisted Design (A.S.-C.A.D.)",
+    "name": "Associate of Science in Computer Assisted Design"
   },
   {
     "uuid": "b31006d9-4196-4a5e-865f-11c4500c5160",
-    "name": "Bachelor of Science in Electro-Mechanical Engineering Technology (B.S.E.M.E.T.)",
-    "new_name": "Bachelor of Science in Electro-Mechanical Engineering Technology"
+    "taxonomies_name": "Bachelor of Science in Electro-Mechanical Engineering Technology (B.S.E.M.E.T.)",
+    "name": "Bachelor of Science in Electro-Mechanical Engineering Technology"
   },
   {
     "uuid": "6d3192c8-02be-4dd4-9d74-1625c2e89b4c",
-    "name": "Master of Civil Engineering (M.C.E./M.S.C.E.)",
-    "new_name": "Master of Civil Engineering"
+    "taxonomies_name": "Master of Civil Engineering (M.C.E./M.S.C.E.)",
+    "name": "Master of Civil Engineering"
   },
   {
     "uuid": "a3fe7a3e-c472-42e3-831a-269b38be364d",
-    "name": "Master of Hebrew Letters (M.H.L.)",
-    "new_name": "Master of Hebrew Letters"
+    "taxonomies_name": "Master of Hebrew Letters (M.H.L.)",
+    "name": "Master of Hebrew Letters"
   },
   {
     "uuid": "c75fad66-7231-43b8-aa73-9f7296e5ed4d",
-    "name": "Master of Forestry (M.F.)",
-    "new_name": "Master of Forestry"
+    "taxonomies_name": "Master of Forestry (M.F.)",
+    "name": "Master of Forestry"
   },
   {
     "uuid": "20c1a891-a658-4b7e-a679-73a5575ab4e9",
-    "name": "Master of Aerospace Engineering (M.A.E./M.S.A.E.)",
-    "new_name": "Master of Aerospace Engineering"
+    "taxonomies_name": "Master of Aerospace Engineering (M.A.E./M.S.A.E.)",
+    "name": "Master of Aerospace Engineering"
   },
   {
     "uuid": "cd7c4ffc-3558-49ba-9016-b7793f3ceb11",
-    "name": "Master of Electrical Engineering (M.E.E./M.S.E.E.)",
-    "new_name": "Master of Electrical Engineering"
+    "taxonomies_name": "Master of Electrical Engineering (M.E.E./M.S.E.E.)",
+    "name": "Master of Electrical Engineering"
   },
   {
     "uuid": "abfb5f45-19a9-4449-ba7a-e06e6edce352",
-    "name": "Bachelor of Hebrew Letters (B.H.L.)",
-    "new_name": "Bachelor of Hebrew Letters"
+    "taxonomies_name": "Bachelor of Hebrew Letters (B.H.L.)",
+    "name": "Bachelor of Hebrew Letters"
   },
   {
     "uuid": "0f2acec5-11b4-4639-a699-282a7911e1e6",
-    "name": "Doctor of Modern Languages (DML)",
-    "new_name": "Doctor of Modern Languages"
+    "taxonomies_name": "Doctor of Modern Languages (DML)",
+    "name": "Doctor of Modern Languages"
   },
   {
     "uuid": "14325b9f-001c-4876-a2aa-13de4daac9aa",
-    "name": "Bachelor of Electrical Engineering (B.E.E.)",
-    "new_name": "Bachelor of Electrical Engineering"
+    "taxonomies_name": "Bachelor of Electrical Engineering (B.E.E.)",
+    "name": "Bachelor of Electrical Engineering"
   },
   {
     "uuid": "fc3ace67-b2ec-41a5-9740-3ba175f10e94",
-    "name": "Master of Public Administration (M.P.A.)",
-    "new_name": "Master of Public Administration"
+    "taxonomies_name": "Master of Public Administration (M.P.A.)",
+    "name": "Master of Public Administration"
   },
   {
     "uuid": "730847b5-d47d-4b02-85b7-d6a91dde5fe1",
-    "name": "Bachelor of Science in Electrical Engineering Technology (B.S.E.E.T.)",
-    "new_name": "Bachelor of Science in Electrical Engineering Technology"
+    "taxonomies_name": "Bachelor of Science in Electrical Engineering Technology (B.S.E.E.T.)",
+    "name": "Bachelor of Science in Electrical Engineering Technology"
   },
   {
     "uuid": "a50707b4-d341-4c81-a952-d922392b6edf",
-    "name": "Master of Nursing Administration (M.N.A./M.S.N.A.)",
-    "new_name": "Master of Nursing Administration"
+    "taxonomies_name": "Master of Nursing Administration (M.N.A./M.S.N.A.)",
+    "name": "Master of Nursing Administration"
   },
   {
     "uuid": "7dc61cac-587f-4e19-82b6-a0211b137297",
-    "name": "Master of Rehabilitation Counseling (M.R.C.)",
-    "new_name": "Master of Rehabilitation Counseling"
+    "taxonomies_name": "Master of Rehabilitation Counseling (M.R.C.)",
+    "name": "Master of Rehabilitation Counseling"
   },
   {
     "uuid": "3bc8d36f-9167-4215-9b27-c9796e586a7f",
-    "name": "Master of Library Science (M.L.S.)",
-    "new_name": "Master of Library Science"
+    "taxonomies_name": "Master of Library Science (M.L.S.)",
+    "name": "Master of Library Science"
   },
   {
     "uuid": "94d9bb0e-c33b-4866-85e6-bd1dea604aa7",
-    "name": "Master of Science in Pharmaceutical Sciences (M.S.P.S.)",
-    "new_name": "Master of Science in Pharmaceutical Sciences"
+    "taxonomies_name": "Master of Science in Pharmaceutical Sciences (M.S.P.S.)",
+    "name": "Master of Science in Pharmaceutical Sciences"
   },
   {
     "uuid": "24c1efb5-7162-4af8-848b-8ded7ef0dde4",
-    "name": "Master of Public Health Education (M.P.H.E.)",
-    "new_name": "Master of Public Health Education"
+    "taxonomies_name": "Master of Public Health Education (M.P.H.E.)",
+    "name": "Master of Public Health Education"
   },
   {
     "uuid": "d4789147-d705-4731-b242-30688b508589",
-    "name": "Doctor of Dental Science (D.D.S.)",
-    "new_name": "Doctor of Dental Science"
+    "taxonomies_name": "Doctor of Dental Science (D.D.S.)",
+    "name": "Doctor of Dental Science"
   },
   {
     "uuid": "3b11eb69-1239-4a09-9daf-24cfc50d7622",
-    "name": "Associate of Arts (A.A.)",
-    "new_name": "Associate of Arts"
+    "taxonomies_name": "Associate of Arts (A.A.)",
+    "name": "Associate of Arts"
   },
   {
     "uuid": "edf085db-c2a8-410f-97b6-42df971883e7",
-    "name": "Bachelor of Philosophy (B.Phil.)",
-    "new_name": "Bachelor of Philosophy"
+    "taxonomies_name": "Bachelor of Philosophy (B.Phil.)",
+    "name": "Bachelor of Philosophy"
   },
   {
     "uuid": "050e7f92-90b6-406f-84f4-3a041dd6a7c0",
-    "name": "Bachelor of Science in Manufacturing Systems Engineering (B.S.M.S.E.)",
-    "new_name": "Bachelor of Science in Manufacturing Systems Engineering"
+    "taxonomies_name": "Bachelor of Science in Manufacturing Systems Engineering (B.S.M.S.E.)",
+    "name": "Bachelor of Science in Manufacturing Systems Engineering"
   },
   {
     "uuid": "9fbfb99f-0f06-4290-8ba9-b51a7ea4909d",
-    "name": "Master of Science in Gerontology (M.S.G.)",
-    "new_name": "Master of Science in Gerontology"
+    "taxonomies_name": "Master of Science in Gerontology (M.S.G.)",
+    "name": "Master of Science in Gerontology"
   },
   {
     "uuid": "f4706b1d-08b0-44d4-82ab-e9faea8eddc5",
-    "name": "Master of Recreation Administration (M.R.A.)",
-    "new_name": "Master of Recreation Administration"
+    "taxonomies_name": "Master of Recreation Administration (M.R.A.)",
+    "name": "Master of Recreation Administration"
   },
   {
     "uuid": "e733f69b-a4d5-4be4-91f1-aea1bb5de7b6",
-    "name": "Master of Agricultural Economics (M.A.E.)",
-    "new_name": "Master of Agricultural Economics"
+    "taxonomies_name": "Master of Agricultural Economics (M.A.E.)",
+    "name": "Master of Agricultural Economics"
   },
   {
     "uuid": "fdcd0fdc-0dc4-4576-ab8b-920e943f4d89",
-    "name": "Bachelor of Science in Computer Engineering Technology (B.S.C.E.T.)",
-    "new_name": "Bachelor of Science in Computer Engineering Technology"
+    "taxonomies_name": "Bachelor of Science in Computer Engineering Technology (B.S.C.E.T.)",
+    "name": "Bachelor of Science in Computer Engineering Technology"
   },
   {
     "uuid": "6954612d-55b1-44f0-a2c7-1b735c8eaf1d",
-    "name": "Master of Materials Science (M.M.S.)",
-    "new_name": "Master of Materials Science"
+    "taxonomies_name": "Master of Materials Science (M.M.S.)",
+    "name": "Master of Materials Science"
   },
   {
     "uuid": "ec90d18e-6086-4557-bb23-fc87327b1b1d",
-    "name": "Associate of Electronics (A.E.)",
-    "new_name": "Associate of Electronics"
+    "taxonomies_name": "Associate of Electronics (A.E.)",
+    "name": "Associate of Electronics"
   },
   {
     "uuid": "6ec6b64c-529e-4102-8c59-05763447faae",
-    "name": "Associate of Technology (A.T.)",
-    "new_name": "Associate of Technology"
+    "taxonomies_name": "Associate of Technology (A.T.)",
+    "name": "Associate of Technology"
   },
   {
     "uuid": "0e9a7778-7650-403b-9e3f-cbe0684a074e",
-    "name": "Bachelor of Science in Metallurgical Engineering (B.S.Mt.E.)",
-    "new_name": "Bachelor of Science in Metallurgical Engineering"
+    "taxonomies_name": "Bachelor of Science in Metallurgical Engineering (B.S.Mt.E.)",
+    "name": "Bachelor of Science in Metallurgical Engineering"
   },
   {
     "uuid": "18e608b2-cab9-419d-b937-193160c107fe",
-    "name": "Master of Veterinary Science (M.Vet.Sc./M.V.S.)",
-    "new_name": "Master of Veterinary Science"
+    "taxonomies_name": "Master of Veterinary Science (M.Vet.Sc./M.V.S.)",
+    "name": "Master of Veterinary Science"
   },
   {
     "uuid": "a5b13435-7052-4be1-9a5b-0ea2758eb4d8",
-    "name": "Associate of Nursing (A.N.)",
-    "new_name": "Associate of Nursing"
+    "taxonomies_name": "Associate of Nursing (A.N.)",
+    "name": "Associate of Nursing"
   },
   {
     "uuid": "8000947b-0c00-46e9-b24b-8ba51524de3d",
-    "name": "Master of Liberal Studies (M.L.S.)",
-    "new_name": "Master of Liberal Studies"
+    "taxonomies_name": "Master of Liberal Studies (M.L.S.)",
+    "name": "Master of Liberal Studies"
   },
   {
     "uuid": "71111981-5372-4306-8cbd-c2e4b9d5b09a",
-    "name": "Master of Industrial Engineering (M.I.E./M.S.I.E.)",
-    "new_name": "Master of Industrial Engineering"
+    "taxonomies_name": "Master of Industrial Engineering (M.I.E./M.S.I.E.)",
+    "name": "Master of Industrial Engineering"
   },
   {
     "uuid": "b9fbd683-9f15-4872-9301-a7c7d489bb1b",
-    "name": "Master of Arts in College Teaching (M.A.C.T.)",
-    "new_name": "Master of Arts in College Teaching"
+    "taxonomies_name": "Master of Arts in College Teaching (M.A.C.T.)",
+    "name": "Master of Arts in College Teaching"
   },
   {
     "uuid": "c1f57dba-9e07-4d1a-944b-277223b23a26",
-    "name": "Master of Arts in Family Counseling (M.A.F.C.)",
-    "new_name": "Master of Arts in Family Counseling"
+    "taxonomies_name": "Master of Arts in Family Counseling (M.A.F.C.)",
+    "name": "Master of Arts in Family Counseling"
   },
   {
     "uuid": "68f1759e-755e-402e-8333-8ee599b992e7",
-    "name": "Bachelor of Technology (B.T./B.Tech.)",
-    "new_name": "Bachelor of Technology"
+    "taxonomies_name": "Bachelor of Technology (B.T./B.Tech.)",
+    "name": "Bachelor of Technology"
   },
   {
     "uuid": "f66ed304-a0e1-400b-8d50-26661e99c819",
-    "name": "Master of Social Work (M.S.W.)",
-    "new_name": "Master of Social Work"
+    "taxonomies_name": "Master of Social Work (M.S.W.)",
+    "name": "Master of Social Work"
   },
   {
     "uuid": "416e8768-7da8-4710-951a-25e4e7a47068",
-    "name": "Associate of Electrical Engineering Technology (A.E.E.T.)",
-    "new_name": "Associate of Electrical Engineering Technology"
+    "taxonomies_name": "Associate of Electrical Engineering Technology (A.E.E.T.)",
+    "name": "Associate of Electrical Engineering Technology"
   },
   {
     "uuid": "7f5e765e-ce45-44c5-8a26-af1b187d16c5",
-    "name": "Master of Science in Dentistry (M.S.D./M.Sc.D.)",
-    "new_name": "Master of Science in Dentistry"
+    "taxonomies_name": "Master of Science in Dentistry (M.S.D./M.Sc.D.)",
+    "name": "Master of Science in Dentistry"
   },
   {
     "uuid": "d45c37ee-3c29-4e3f-801c-76e653f58694",
-    "name": "Master of Landscape Architecture (M.L.Arch./M.L.A.)",
-    "new_name": "Master of Landscape Architecture"
+    "taxonomies_name": "Master of Landscape Architecture (M.L.Arch./M.L.A.)",
+    "name": "Master of Landscape Architecture"
   },
   {
     "uuid": "e61e139b-36f3-4c02-abaa-812201bd9171",
-    "name": "Associate of Engineering Technology (A.E.T./A.Eng.T.)",
-    "new_name": "Associate of Engineering Technology"
+    "taxonomies_name": "Associate of Engineering Technology (A.E.T./A.Eng.T.)",
+    "name": "Associate of Engineering Technology"
   },
   {
     "uuid": "13b5e4c9-1118-468b-b70e-d85c7d0e8859",
-    "name": "Master of Journalism (M.J.)",
-    "new_name": "Master of Journalism"
+    "taxonomies_name": "Master of Journalism (M.J.)",
+    "name": "Master of Journalism"
   },
   {
     "uuid": "a9bdb76c-9e08-48d3-8e7e-e554e0043b8f",
-    "name": "Associate of Science (A.S.)",
-    "new_name": "Associate of Science"
+    "taxonomies_name": "Associate of Science (A.S.)",
+    "name": "Associate of Science"
   },
   {
     "uuid": "96a04149-70a7-4291-a151-5120b6b97c13",
-    "name": "Master of Science in Metallurgical Engineering (M.S.Met.E.)",
-    "new_name": "Master of Science in Metallurgical Engineering"
+    "taxonomies_name": "Master of Science in Metallurgical Engineering (M.S.Met.E.)",
+    "name": "Master of Science in Metallurgical Engineering"
   },
   {
     "uuid": "cf8c72f2-0a01-403d-afa2-afbe6921b87f",
-    "name": "Master of Science in Finance (M.S.F.)",
-    "new_name": "Master of Science in Finance"
+    "taxonomies_name": "Master of Science in Finance (M.S.F.)",
+    "name": "Master of Science in Finance"
   },
   {
     "uuid": "49fb1dfc-dcf1-45c1-8854-5046a5b314f4",
-    "name": "Master of Mechanical Engineering (M.M.E./M.S.M.E.)",
-    "new_name": "Master of Mechanical Engineering"
+    "taxonomies_name": "Master of Mechanical Engineering (M.M.E./M.S.M.E.)",
+    "name": "Master of Mechanical Engineering"
   },
   {
     "uuid": "f1d2bae3-de2a-4704-8c3b-a72f5336c4e4",
-    "name": "Master of Philosophy (M.Phil.)",
-    "new_name": "Master of Philosophy"
+    "taxonomies_name": "Master of Philosophy (M.Phil.)",
+    "name": "Master of Philosophy"
   },
   {
     "uuid": "971ae28d-d175-4c0e-b789-67dc7cd32f32",
-    "name": "Master of Science in Economics (M.S.E.)",
-    "new_name": "Master of Science in Economics"
+    "taxonomies_name": "Master of Science in Economics (M.S.E.)",
+    "name": "Master of Science in Economics"
   },
   {
     "uuid": "af9cbf58-8500-485d-bcce-6214ce97f9b7",
-    "name": "Master of Rehabilitation Medicine (M.R.M.)",
-    "new_name": "Master of Rehabilitation Medicine"
+    "taxonomies_name": "Master of Rehabilitation Medicine (M.R.M.)",
+    "name": "Master of Rehabilitation Medicine"
   },
   {
     "uuid": "862e8de5-a2e8-4de8-9725-128848a29c68",
-    "name": "Master of Real Estate Development (M.R.E.D./M.S.R.E.D.)",
-    "new_name": "Master of Real Estate Development"
+    "taxonomies_name": "Master of Real Estate Development (M.R.E.D./M.S.R.E.D.)",
+    "name": "Master of Real Estate Development"
   },
   {
     "uuid": "3723beed-4fbf-44c9-a285-3fbeda6795e2",
-    "name": "Master of Arts in Behavioral Science (M.A.B.S.)",
-    "new_name": "Master of Arts in Behavioral Science"
+    "taxonomies_name": "Master of Arts in Behavioral Science (M.A.B.S.)",
+    "name": "Master of Arts in Behavioral Science"
   },
   {
     "uuid": "5ca24808-c0c0-48d8-a2b4-808666e14f02",
-    "name": "Master of Arts in Cross-Cultural Studies (M.A.C.C.S.)",
-    "new_name": "Master of Arts in Cross-Cultural Studies"
+    "taxonomies_name": "Master of Arts in Cross-Cultural Studies (M.A.C.C.S.)",
+    "name": "Master of Arts in Cross-Cultural Studies"
   },
   {
     "uuid": "58259f19-b849-4333-82c2-ca4232625a93",
-    "name": "Bachelor of Liberal Studies (B.L.S.)",
-    "new_name": "Bachelor of Liberal Studies"
+    "taxonomies_name": "Bachelor of Liberal Studies (B.L.S.)",
+    "name": "Bachelor of Liberal Studies"
   },
   {
     "uuid": "0f17eb1f-af23-4480-ada0-0794509da5e5",
-    "name": "Associate of Industrial Technology (A.I.T.)",
-    "new_name": "Associate of Industrial Technology"
+    "taxonomies_name": "Associate of Industrial Technology (A.I.T.)",
+    "name": "Associate of Industrial Technology"
   },
   {
     "uuid": "aab6db66-a1e4-4cef-a438-2f8dcd7dd4de",
-    "name": "Master of Arts in Computer Education (M.A.C.E.)",
-    "new_name": "Master of Arts in Computer Education"
+    "taxonomies_name": "Master of Arts in Computer Education (M.A.C.E.)",
+    "name": "Master of Arts in Computer Education"
   },
   {
     "uuid": "3b9e0479-a8cc-476c-8ca4-913c75f53914",
-    "name": "Bachelor of Religious Education (B.R.E.)",
-    "new_name": "Bachelor of Religious Education"
+    "taxonomies_name": "Bachelor of Religious Education (B.R.E.)",
+    "name": "Bachelor of Religious Education"
   },
   {
     "uuid": "77eac507-7bc7-4cd5-acf6-c6acbdf763e6",
-    "name": "Associate of Applied Technology (A.A.T.)",
-    "new_name": "Associate of Applied Technology"
+    "taxonomies_name": "Associate of Applied Technology (A.A.T.)",
+    "name": "Associate of Applied Technology"
   },
   {
     "uuid": "3ddf78cf-41b5-4d0e-ad2f-d4db996222f9",
-    "name": "Master of Arts in Arts Administration (M.A.A.A.)",
-    "new_name": "Master of Arts in Arts Administration"
+    "taxonomies_name": "Master of Arts in Arts Administration (M.A.A.A.)",
+    "name": "Master of Arts in Arts Administration"
   },
   {
     "uuid": "7cfdf8b3-ab2c-46d4-9e73-ee11c6245cef",
-    "name": "Associate of Applied Science (A.A.S.)",
-    "new_name": "Associate of Applied Science"
+    "taxonomies_name": "Associate of Applied Science (A.A.S.)",
+    "name": "Associate of Applied Science"
   },
   {
     "uuid": "0c676db8-16de-40e2-9618-6bae0153f17f",
-    "name": "Bachelor of Science in Environmental Engineering (B.S.En.E./B.S.Env.E.)",
-    "new_name": "Bachelor of Science in Environmental Engineering"
+    "taxonomies_name": "Bachelor of Science in Environmental Engineering (B.S.En.E./B.S.Env.E.)",
+    "name": "Bachelor of Science in Environmental Engineering"
   },
   {
     "uuid": "77bdefdb-ad04-4146-90e1-c3aa705795f6",
-    "name": "Master of Science in Textiles (M.S.Text.)",
-    "new_name": "Master of Science in Textiles"
+    "taxonomies_name": "Master of Science in Textiles (M.S.Text.)",
+    "name": "Master of Science in Textiles"
   },
   {
     "uuid": "0ccef742-841a-41c3-81f1-a7381efbdc68",
-    "name": "Associate of General Studies (A.G.S.)",
-    "new_name": "Associate of General Studies"
+    "taxonomies_name": "Associate of General Studies (A.G.S.)",
+    "name": "Associate of General Studies"
   },
   {
     "uuid": "49870485-6ecc-4387-9fbe-ee0710d13911",
-    "name": "Master of Science in Forensic Science (M.S.F.S.)",
-    "new_name": "Master of Science in Forensic Science"
+    "taxonomies_name": "Master of Science in Forensic Science (M.S.F.S.)",
+    "name": "Master of Science in Forensic Science"
   },
   {
     "uuid": "26d167a1-42e9-4ec7-99da-848c4fd62743",
-    "name": "Master of Science in Information Systems (M.S.I.S.)",
-    "new_name": "Master of Science in Information Systems"
+    "taxonomies_name": "Master of Science in Information Systems (M.S.I.S.)",
+    "name": "Master of Science in Information Systems"
   },
   {
     "uuid": "6f43c655-e9df-4f53-95d5-b1f6138ecf17",
-    "name": "Bachelor of Science in Industrial Engineering (B.S.I.E.)",
-    "new_name": "Bachelor of Science in Industrial Engineering"
+    "taxonomies_name": "Bachelor of Science in Industrial Engineering (B.S.I.E.)",
+    "name": "Bachelor of Science in Industrial Engineering"
   },
   {
     "uuid": "0004a796-755b-4cd6-8860-92d636731da3",
-    "name": "Master of Fine Arts (M.F.A.)",
-    "new_name": "Master of Fine Arts"
+    "taxonomies_name": "Master of Fine Arts (M.F.A.)",
+    "name": "Master of Fine Arts"
   },
   {
     "uuid": "0b221715-c9c8-4904-8a99-677729687fd9",
-    "name": "Master of Divinity (M.Div.), Master of Hebrew Letters (M.H.L.), Rabbinical Ordination (Rav)",
-    "new_name": "Master of Divinity"
+    "taxonomies_name": "Master of Divinity (M.Div.), Master of Hebrew Letters (M.H.L.), Rabbinical Ordination (Rav)",
+    "name": "Master of Divinity"
   },
   {
     "uuid": "9ceb7d41-4fa2-484d-af81-b784e7e53126",
-    "name": "DES",
-    "new_name": "DES"
+    "taxonomies_name": "DES",
+    "name": "DES"
   }
 ]

@@ -3,6 +3,8 @@ from openai_argumentor.openai_requests import generate_alternative_and_acronyms,
 from acdemic_achievement_extraction.raw_data import associates, bachelor, masters, doctors, education_levels
 
 if __name__ == '__main__':
+    original_data = pd.read_json("ed_gov_skills_enrichment_input.json")
+
     for i, deg in enumerate([associates, bachelor, masters, doctors]):
         if i == 0:
             all_alt_df = generate_alternative_and_acronyms(deg)
@@ -22,4 +24,7 @@ if __name__ == '__main__':
     education_levels_df = pd.merge(education_levels_df, education_levels_mapping, on='education_level', how='left')
     education_levels_df = pd.merge(major_df, education_levels_df, on='name', how='left')
 
-    education_levels_df.to_json(f"degrees_enrichment_data.json", orient="records", lines=True)
+    final_data = pd.merge(education_levels_df, original_data, on='name', how='left')
+
+
+    final_data.to_json(f"degrees_enrichment_data.json", orient="records", lines=True)
